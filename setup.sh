@@ -4,6 +4,9 @@
 # ./setup.sh
 #
 #
+echo "Responder For Python 3 By J~Net 2026"
+echo ""
+
 mkdir -p ~/Documents/Scripts/HACKING/
 
 cd ~/Documents/Scripts/HACKING/
