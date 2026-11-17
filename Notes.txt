@@ -1,9 +1,8 @@
 Responder
 
+chmod +x *.sh
 
-cd ~/Documents/Scripts/HACKING/
-
-git clone https://github.com/SpiderLabs/Responder.git
+./setup.sh
 
 Cloning into 'Responder'...
 remote: Enumerating objects: 878, done.
